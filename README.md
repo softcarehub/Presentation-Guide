@@ -1,6 +1,6 @@
 # Table of Contents
 1. Topics:
-- [Big Data Analytics]()
+- [Big Data Analytics](https://docs.google.com/presentation/d/1EXkSznwIU6NDQ14t_BCuFRDLhjtabrV8/edit?usp=sharing&ouid=101950237861040247688&rtpof=true&sd=true)
   - [Better view with Canva](https://www.canva.com/design/DAFvebwhsbY/weMEqUVrw86B2iBkQ6weNw/edit)
 - [Computer crime or cyber crime](https://docs.google.com/presentation/d/12btBgEeUfqSwXCaNr7wH8429HQqO8HT2/edit?usp=sharing&ouid=101950237861040247688&rtpof=true&sd=true)
   - [Better view with Canva](https://www.canva.com/design/DAFvGpEhyCY/PTfDecsLlzrwCXqSGx_hYw/edit)
