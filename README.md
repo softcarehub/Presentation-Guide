@@ -2,7 +2,7 @@
 1. Topics:
 - [Big Data Analytics]()
   - [Better view with Canva](https://www.canva.com/design/DAFvebwhsbY/weMEqUVrw86B2iBkQ6weNw/edit)
-- [Computer crime or cyber crime](https://docs.google.com/presentation/d/1eyEfoWEJT2mJVrfGnc901HPv-yFVj2q0/edit?usp=sharing&ouid=101950237861040247688&rtpof=true&sd=true)
+- [Computer crime or cyber crime](https://docs.google.com/presentation/d/12btBgEeUfqSwXCaNr7wH8429HQqO8HT2/edit?usp=sharing&ouid=101950237861040247688&rtpof=true&sd=true)
   - [Better view with Canva](https://www.canva.com/design/DAFvGpEhyCY/PTfDecsLlzrwCXqSGx_hYw/edit)
 - [Rose Leaf Disease Detection using CNN](https://docs.google.com/presentation/d/1AExkXHEf9fl3spmfkNq5FTi0juW5O-RX/edit?usp=sharing&ouid=101950237861040247688&rtpof=true&sd=true)
   - [Better view with Canva](https://www.canva.com/design/DAFvRVOqyfE/_fybj21droyctheSkgq3Tw/edit)
