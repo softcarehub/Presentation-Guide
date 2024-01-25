@@ -8,4 +8,5 @@
   - [Better view with Canva](https://www.canva.com/design/DAFvRVOqyfE/_fybj21droyctheSkgq3Tw/edit)
 - [The Future of the Robotics Technology](https://docs.google.com/presentation/d/1dCsmZsAosnPHJA1jVGvc2FLJEKqJTSz8/edit?usp=sharing&ouid=101950237861040247688&rtpof=true&sd=true)
   - [better view using Canva](https://www.canva.com/design/DAFusj3GzCw/CYQbLcJlGSBJ7oq4B5lexw/edit)
-
+- [Final Defense](https://docs.google.com/presentation/d/1NFGfKQSsH0i-hNoEjb-pD66-63KggqCV/edit?usp=sharing&ouid=112392855549340893624&rtpof=true&sd=true)
+  
